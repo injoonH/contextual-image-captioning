@@ -19,9 +19,9 @@ Image Captioning," published at EACL Workshop LANTERN 2021.
 
 1. Sreyasi Nag Chowdhury, Rajarshi Bhowmik, Hareesh Ravi, Gerard de Melo, Simon
    Razniewski, and Gerhard Weikum. 2021. [Exploiting Image–Text Synergy for
-   Contextual Image Captioning][4]. In Proceedings of the Third Workshop on
-   Beyond Vision and LANguage: inTEgrating Real-world kNowledge (LANTERN), pages
-   30–37, Kyiv, Ukraine. Association for Computational Linguistics.
+   Contextual Image Captioning][4]. In _Proceedings of the Third Workshop on
+   Beyond Vision and LANguage: inTEgrating Real-world kNowledge (LANTERN)_,
+   pages 30–37, Kyiv, Ukraine. Association for Computational Linguistics.
 
 [1]: https://img.shields.io/badge/gitmoji-%20😜%20😍-ffdd67?style=flat-square "Shield-Gitmoji"
 [2]: https://img.shields.io/badge/code%20style-black-000000?style=flat-square "Shield-Black"
